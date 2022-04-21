@@ -14,21 +14,39 @@
 
 ---
 
-- **Chapter 1 - Self-Discipline and Success**
+<h1 align=center>Chapter 1 - Self-Discipline and Success</h1>
 
 > “The first and best victory is to conquer self.” -- **PLATO**
 
-1. Why do some people accomplish so much more in their personal and professional lives than others?
-2. This question has occupied some of the very best minds throughout human history.
-3. More than 2,300 years ago, Aristotle wrote that the ultimate aim of human life is to be happy.
-4. He said that the great question that each of us must answer is, “How shall we live in order to be happy?”
-5. Your ability to ask and answer that question correctly for yourself—and then to follow where your answer leads you—will largely determine whether you achieve your own happiness, and how soon.
-6. Begin with your own personal definition.
-7. How do you define success? If you could wave a magic wand and make your life perfect in every way, what would it look like?
+- Why do some people accomplish so much more in their personal and professional lives than others?
+- This question has occupied some of the very best minds throughout human history.
+- More than 2,300 years ago, Aristotle wrote that the ultimate aim of human life is to be happy.
+- He said that the great question that each of us must answer is, “How shall we live in order to be happy?”
+- Your ability to ask and answer that question correctly for yourself—and then to follow where your answer leads you—will largely determine whether you achieve your own happiness, and how soon.
+- Begin with your own personal definition.
+- How do you define success?
+  - If you could wave a magic wand and make your life perfect in every way, what would it look like?
 
 ---
 
-  - Describe Your Ideal Life
+<h1 align=center>Describe Your Ideal Life</h1>
+
+- If your business, work, and career were ideal in every way,
+  - what would they look like?
+  - What would you be doing?
+  - What sort of company would you work for?
+  - What position would you have?
+  - How much money would you earn?
+  - What kind of people would you work with?
+  - And, especially, what would you need to do more or less of to create your perfect career?
+- If your family life were perfect in every way,
+  - what would it look like?
+  - Where would you live, and how would you be living?
+  - What kind of a lifestyle would you have?
+  - What sort of things would you want to have and do with the members of your family?
+  - If you had no limitations and you could wave a magic wand, in what ways would you change your family life today?
+
+---
   - Do Your Own Thing
   - Join the Top 20 Percent
   - Starting with Nothing 
